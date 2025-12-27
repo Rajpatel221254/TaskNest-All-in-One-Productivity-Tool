@@ -10,7 +10,7 @@ The project focuses on simplicity, clean UI, and essential productivity tools.
 ## 🔗 Live Demo
 
 👉 **Live Website:**  
-https://your-live-link-here
+[LiveLink](https://tasknest-mbrc.netlify.app/)
 
 > Open the project in a desktop browser for the best experience.
 
@@ -73,7 +73,6 @@ No external frameworks or libraries are used.
 
 ## 📷 Screenshots
 
-Screenshots can be added here to showcase the UI.
 <img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/f6788e35-48fe-404a-af6b-c30153dff090" />
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/5d821f97-2f2e-4d9e-a238-53e72082f09c" />
 <img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/e8727543-ea4d-4c9d-a1ed-83342e454907" />
