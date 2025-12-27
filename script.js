@@ -181,6 +181,8 @@ function pomodoroPage() {
   let timerInterval = null;
 
   function startTimer() {
+     if (timerInterval !== null) return;
+
     timerInterval = setInterval(() => {
       if (totalSeconds > 0) {
         totalSeconds--;
